@@ -47,3 +47,4 @@ Your web application is now live!
 - Uglify/Minify
 - Rename
 - Browser Sync w/Live Reload
+# stockmarket
